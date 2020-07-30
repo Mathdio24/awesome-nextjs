@@ -54,6 +54,8 @@
  * [Next.js E-commerce Tutorial: Quick Shopping Cart Integration](https://snipcart.com/blog/next-js-ecommerce-tutorial)
  * [Working with Ghost and Next.js](https://ghost.org/docs/api/nextjs/)
  * [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
+ * [Next.js E-Commerce with Snipcart](https://snipcart.com/blog/next-js-ecommerce-tutorial)
+ * [Integrating TinaCMS to Next.js for Inline Editing](https://snipcart.com/blog/tinacms-nextjs-cms)
 
 ## Boilerplates
 
